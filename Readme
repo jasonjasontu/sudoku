@@ -1,0 +1,3 @@
+a sudoku should be shown in a txt file in the same format as example.txt
+a sudoku needs to be loaded with function read_board and get into the Class sudoku
+infer_with_guessing is the untimate solver function.
